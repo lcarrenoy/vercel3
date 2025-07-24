@@ -1,0 +1,11 @@
+﻿---
+title: "Acerca de"
+---
+
+## Sobre vercel3
+
+Proyecto creado con Quarto para demostración de despliegue dual.
+
+- Creado por: **lcarrenoy**
+- GitHub: [https://github.com/lcarrenoy/vercel3](https://github.com/lcarrenoy/vercel3)
+- Tecnologías: Quarto, PowerShell, GitHub Pages, Vercel

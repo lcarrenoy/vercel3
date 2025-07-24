@@ -1,0 +1,21 @@
+﻿---
+title: "vercel3"
+format: html
+---
+
+## Bienvenido a vercel3
+
+Sitio creado con Quarto, desplegado en GitHub Pages y Vercel.
+
+## Características
+
+- ✅ Dual deployment: GitHub Pages y Vercel
+- ✅ Automatización con PowerShell
+- ✅ Diseño responsivo con Cosmo theme
+
+```{r}
+# Ejemplo de código R
+x <- 1:10
+y <- x^2
+plot(x, y, type = "b", main = "Gráfico de ejemplo", xlab = "X", ylab = "Y", col = "blue")
+```

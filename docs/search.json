@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "vercel3.html",
+    "href": "vercel3.html",
+    "title": "vercel3",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "vercel3.html#quarto",
+    "href": "vercel3.html#quarto",
+    "title": "vercel3",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Acerca de",
+    "section": "",
+    "text": "Proyecto creado con Quarto para demostración de despliegue dual.\n\nCreado por: lcarrenoy\nGitHub: https://github.com/lcarrenoy/vercel3\nTecnologías: Quarto, PowerShell, GitHub Pages, Vercel"
+  },
+  {
+    "objectID": "about.html#sobre-vercel3",
+    "href": "about.html#sobre-vercel3",
+    "title": "Acerca de",
+    "section": "",
+    "text": "Proyecto creado con Quarto para demostración de despliegue dual.\n\nCreado por: lcarrenoy\nGitHub: https://github.com/lcarrenoy/vercel3\nTecnologías: Quarto, PowerShell, GitHub Pages, Vercel"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "vercel3",
+    "section": "",
+    "text": "Sitio creado con Quarto, desplegado en GitHub Pages y Vercel."
+  },
+  {
+    "objectID": "index.html#bienvenido-a-vercel3",
+    "href": "index.html#bienvenido-a-vercel3",
+    "title": "vercel3",
+    "section": "",
+    "text": "Sitio creado con Quarto, desplegado en GitHub Pages y Vercel."
+  },
+  {
+    "objectID": "index.html#características",
+    "href": "index.html#características",
+    "title": "vercel3",
+    "section": "Características",
+    "text": "Características\n\n✅ Dual deployment: GitHub Pages y Vercel\n✅ Automatización con PowerShell\n✅ Diseño responsivo con Cosmo theme\n\n\n\nCode\n# Ejemplo de código R\nx &lt;- 1:10\ny &lt;- x^2\nplot(x, y, type = \"b\", main = \"Gráfico de ejemplo\", xlab = \"X\", ylab = \"Y\", col = \"blue\")"
+  }
+]

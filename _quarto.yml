@@ -1,0 +1,21 @@
+﻿project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "vercel3"
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: about.qmd
+    right:
+      - icon: github
+        href: https://github.com/lcarrenoy/vercel3
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    code-fold: true
